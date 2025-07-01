@@ -1,6 +1,6 @@
 <p>
   Frontend – React.js:
-          Dynamic, responsive UI
+          <p> Dynamic, responsive UI </p>
           Product listing, filtering, and search
           Real-time cart updates and API communication
  </p> 
