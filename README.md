@@ -1,1 +1,16 @@
-<P>QuickCart is a modern full-stack e-commerce web application designed to provide a seamless online shopping experience. The project integrates a React frontend with a robust Spring Boot backend, powered by Core Java for business logic and data handling. </P>
+<p>
+  Frontend – React.js:
+          Dynamic, responsive UI
+          Product listing, filtering, and search
+          Real-time cart updates and API communication
+Backend – Spring Boot + Core Java:
+          RESTful API development
+          Business logic written in Core Java
+          Layered architecture: Controller → Service → Repository
+          Secure authentication using JWT tokens
+Database – MySQL / PostgreSQL:
+          Stores users, products, orders, and cart data
+          Integrated with Spring Data JPA
+          Auto schema generation using Hibernate (ORM)
+          Supports relational mappings (One-to-Many, Many-to-One)
+</p>
